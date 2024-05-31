@@ -1,2 +1,2 @@
-# Welcomme to my GitHub
+# Welcome to my GitHub
 
