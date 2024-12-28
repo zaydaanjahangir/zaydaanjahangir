@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm a second-year computer science student at Northeastern University, building projects to learn as much as possible.
+I'm a second-year computer science student at Northeastern University, trying to make cool stuff.
 
 
 ## 🚀 What I'm Up To
