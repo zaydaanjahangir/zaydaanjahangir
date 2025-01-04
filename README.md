@@ -1,12 +1,5 @@
 # 💫 About Me
-I'm a second-year computer science student at Northeastern University, trying to make cool stuff.
-
-
-## 🚀 What I'm Up To
-
-- 📬 Exploring Distributed Systems with [RabbitMQ](https://www.rabbitmq.com/)
-- 💻 Learning how to build Spring Boot applications with PostgreSQL
-- ⚽ Some form of data analysis with sports
+I'm a second-year computer science and ai student at Northeastern University, and this is all my stuff.
 
 
 ## 🌐 Connect with me
