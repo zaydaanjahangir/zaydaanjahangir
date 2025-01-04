@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm a second-year computer science and ai student at Northeastern University, and this is all my stuff.
+I'm a second-year cs + ai student at Northeastern University, and this is all my stuff.
 
 
 ## 🌐 Connect with me
