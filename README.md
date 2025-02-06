@@ -24,7 +24,7 @@ const Zaydaan = {
   challenge: "Exploring 50 new places in Boston this semester"
 }
 ```
-<b>Have fun looking through my projects!</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpsbDd1cGdhMnlzdTluMTRkcm95MzRyZGFjN2FuOGNvb2FyczUybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uUJySOVvYIkH933zQo/giphy.gif" width="60">
+<b>Have fun looking through my code!</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpsbDd1cGdhMnlzdTluMTRkcm95MzRyZGFjN2FuOGNvb2FyczUybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uUJySOVvYIkH933zQo/giphy.gif" width="60">
 
 
 
