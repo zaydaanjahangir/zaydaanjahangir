@@ -1,19 +1,30 @@
-# 💫 About Me
-I'm a second-year computer science student at Northeastern University, and these are all my projects
+<h2> Hi, I'm Zaydaan Jahangir! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFqbzN2aWpoZDdqNGlrMmtsem0wZGUxZHA1aXo3d3hhN2FscWJpbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/14nnrJRzShCy4w/giphy.gif" width="50"></h2>
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<p><em>Computer Science Student at <a href="http://www.unb.br">Northeastern University</a><img src="https://media.giphy.com/media/E7DNulprYPR6UFv4up/giphy.gif" width="30">
+<!-- </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> -->
 
-## 🚀 What I'm Up To
-
-- ⚽ Data analysis with sports
-- 📔 Studying network analysis and efficient graph processing
-- 📚 Learning Go
-  
-## 🤝 Let's Connect
-- LinkedIn: [linkedin.com/in/zaydaan](https://www.linkedin.com/in/zaydaan/)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-teal-gamma.vercel.app//api/top-langs/?username=zaydaanjahangir&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334&hide=HLSL,ShaderLab,C%23,Jupyter+Notebook,Objective-C%2B%2B,Ruby,Objective-C)
+[![Linkedin: zaydaan](https://img.shields.io/badge/-zaydaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaydaan/)](https://www.linkedin.com/in/zaydaan/)
+  [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/zaydaanjahangir)
 
 
-[![](https://visitcount.itsvg.in/api?id=zaydaanjahangir&icon=0&color=3)](https://visitcount.itsvg.in)
+
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ5eWJpaTlhcGtmb3g0bXVzNXBjeGp5MGN4MHFqamlzMHA2bm4xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mDYBgNVs7sBAeDv9Gt/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Zaydaan = {
+  code: [Java, Python, Go, Kotlin, C#, JavaScript, C],
+  frameworks: [React, Flask, Express, Firebase, Kafka],
+  libraries: [Pandas, NumPy, Tensorflow, PyTorch, RabbitMQ, Swing],
+  topics: ["full-stack", "data science", "anything sports related"],
+  communities: {
+                        "Full-Stack Developer": "Scout",
+                        "Embedded developer" : "AerospaceNU",
+                      },
+  challenge: "Exploring 50 new places in Boston this semester"
+}
+```
+<b>Have fun looking through my projects!</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpsbDd1cGdhMnlzdTluMTRkcm95MzRyZGFjN2FuOGNvb2FyczUybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uUJySOVvYIkH933zQo/giphy.gif" width="50">
+
 
 
