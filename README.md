@@ -1,6 +1,6 @@
 <h2> Hi, I'm Zaydaan Jahangir! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFqbzN2aWpoZDdqNGlrMmtsem0wZGUxZHA1aXo3d3hhN2FscWJpbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/14nnrJRzShCy4w/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<p><em>Computer Science Student at <a href="http://www.unb.br">Northeastern University</a><img src="https://media.giphy.com/media/E7DNulprYPR6UFv4up/giphy.gif" width="30">
+<p><em>Computer Science Student at <a href="https://www.northeastern.edu/">Northeastern University</a><img src="https://media.giphy.com/media/E7DNulprYPR6UFv4up/giphy.gif" width="30">
 <!-- </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 
