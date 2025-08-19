@@ -10,7 +10,7 @@
 ## Recent Projects  
 - **NFLNetworks** — Complex Network Analysis on the NFL  (_Python, R, graph-tool_)  
 - **GeoScope** — Testing Novel Image Geolocalization Techniques (_Python, PyTorch, NumPy, Polars_)
-- **LinguaLink** _(PawHacks 2nd Place Overall)_ — Online Chat Service for Language Learning (_React, TypeScript, Firebase, WebRTC_)  
+- **LinguaLink** _(PawHacks 2nd Place Overall)_ — Online Chat Service for Language Learning (_React, Firebase, WebRTC_)  
 - **TennisBet** — Live Tennis Elo Ratings and Match Predictions (_Python, NumPy, Pandas, RabbitMQ_)  
 - **StockTalk** — Mobile Stock Recommendation Platform (_Python, Kotlin, PostgreSQL, FastAPI, Hugging Face_)  
 - **FlowyPlaylist** — Building Cohesive Spotify Playlists (_Python, Spotify API_)  
