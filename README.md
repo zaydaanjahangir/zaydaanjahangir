@@ -1,31 +1,25 @@
-<!--<h2> Hi, I'm Zaydaan Jahangir! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFqbzN2aWpoZDdqNGlrMmtsem0wZGUxZHA1aXo3d3hhN2FscWJpbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/14nnrJRzShCy4w/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
-<p>Computer Science Student at Northeastern University</p>
-  <p>Incoming SWE Co-op at Chewy </p>
-<!-- </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
-<!--
-[![Linkedin: zaydaan](https://img.shields.io/badge/-zaydaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaydaan/)](https://www.linkedin.com/in/zaydaan/)
-  [![GitHub Zaydaan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/zaydaanjahangir)
+# 👋 Hi, I'm Zaydaan Jahangir! 
+- Currently a SWE Co-op @ Chewy working on content targeting and personalization.
+- Interested in backend systems, network science, and chaos engineering. <br>
+##### You can reach me at [jahangir.z@northeastern.edu](mailto:jahangir.z@northeastern.edu) and [in/zaydaan](https://linkedin.com/in/zaydaan). 
 
--->
-<!-- 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ5eWJpaTlhcGtmb3g0bXVzNXBjeGp5MGN4MHFqamlzMHA2bm4xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mDYBgNVs7sBAeDv9Gt/giphy.gif" width="50"> A little more about me...  
+### I'm Currently Working On: *Graph-Based Chaos Monkey*
+> Graph-Based Resilience Modeling of Microservices Using a Chaos Monkey Approach
 
-```javascript
-const Zaydaan = {
-  code: [Java, Python, Go, Kotlin, C#, JavaScript, C],
-  frameworks: [React, Flask, Express, Firebase, Kafka],
-  libraries: [Pandas, NumPy, Tensorflow, PyTorch, RabbitMQ, Swing],
-  topics: ["full-stack", "data science", "anything sports related"],
-  communities: {
-                        "Full-Stack Developer": "Scout",
-                        "Embedded Developer" : "AerospaceNU",
-                      },
-  challenge: "Exploring 50 new places in Boston this semester"
-}
-```
--->
+
+## Recent Projects  
+- **NFLNetworks** — Complex Network Analysis on the NFL  (_Python, R, graph-tool_)  
+- **GeoScope** — Testing Novel Image Geolocalization Techniques (_Python, PyTorch, NumPy, Polars_)
+- **LinguaLink** _(PawHacks 2nd Place Overall)_ — Online Chat Service for Language Learning (_React, TypeScript, Firebase, WebRTC_)  
+- **TennisBet** — Live Tennis Elo Ratings and Match Predictions (_Python, NumPy, Pandas, RabbitMQ_)  
+- **StockTalk** — Mobile Stock Recommendation Platform (_Python, Kotlin, PostgreSQL, FastAPI, Hugging Face_)  
+- **FlowyPlaylist** — Building Cohesive Spotify Playlists (_Python, Spotify API_)  
+
+---
+
+![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaydaanjahangir&theme=tokyonight)
+
+
 <b>Have fun looking through my code!</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpsbDd1cGdhMnlzdTluMTRkcm95MzRyZGFjN2FuOGNvb2FyczUybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uUJySOVvYIkH933zQo/giphy.gif" width="60">
 
 
