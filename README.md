@@ -3,8 +3,8 @@
 - Interested in backend systems and chaos engineering. <br>
 ##### You can reach me at [jahangir.z@northeastern.edu](mailto:jahangir.z@northeastern.edu) and [in/zaydaan](https://linkedin.com/in/zaydaan). 
 
-### I'm Currently Working On: *Graph-Based Chaos Monkey*
-> Graph-Based Resilience Modeling of Microservices Using a Chaos Monkey Approach
+<!-- ### I'm Currently Working On: *Graph-Based Chaos Monkey*
+> Graph-Based Resilience Modeling of Microservices Using a Chaos Monkey Approach -->
 
 
 ## Recent Projects  
