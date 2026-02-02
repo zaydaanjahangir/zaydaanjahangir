@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Zaydaan Jahangir! 
 - Currently a SWE Co-op @ Chewy working on platform engineering.
-- Interested in backend systems and chaos engineering. <br>
 ##### You can reach me at [jahangir.z@northeastern.edu](mailto:jahangir.z@northeastern.edu) and [in/zaydaan](https://linkedin.com/in/zaydaan). 
 
 <!-- ### I'm Currently Working On: *Graph-Based Chaos Monkey*
